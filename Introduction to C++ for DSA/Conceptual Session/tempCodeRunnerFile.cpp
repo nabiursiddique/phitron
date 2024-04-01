@@ -1,0 +1,1 @@
+std1->age < std2->age ? std1->name : std2->name
