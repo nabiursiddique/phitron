@@ -8,6 +8,7 @@ void fun(int *&p)
 
 int main()
 {
+    // reference of a pointer
     int val = 10;
     int *ptr = &val;
     fun(ptr);
